@@ -1,0 +1,6 @@
+{
+  "name": "Cloudflare Chat Spark",
+  "description": "A collaborative real-time chat application built with React, TanStack Start, and Supabase.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
